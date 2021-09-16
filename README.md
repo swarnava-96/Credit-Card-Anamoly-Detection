@@ -1,6 +1,6 @@
 # Credit-Card-Anamoly-Detection
 
-#### Goal: In this project, I have applied Unsupervised Learning algorithms to detect whether a credit card trasaction is Fraudulent or not. 
+#### Goal: In this project, I have applied Unsupervised Learning algorithms to detect whether a credit card transaction is Fraudulent or not. 
 Isolation Forest, Local Outlier Factor and One Class SVM will be used and compared.
 
 ## About the Data set:
